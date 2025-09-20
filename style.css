@@ -181,7 +181,9 @@ section {
  }
 
 .project-image img{
-    width: 100%
+    width: 100%;
+    height: 200px;
+    
 }
 
 .project-info {
@@ -218,11 +220,13 @@ section {
 
 .contact .info h3 {
     color: white;
+    text-decoration: none;
 }
 
 .contact .info p {
     font-size: 1.5em;
     color: white;
+    text-decoration: none;
 }
 
 .footer {
