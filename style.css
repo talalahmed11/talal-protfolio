@@ -228,6 +228,9 @@ section {
     color: white;
     text-decoration: none;
 }
+.content a{
+    text-decoration: none;
+}
 
 .footer {
     background-color:white;
